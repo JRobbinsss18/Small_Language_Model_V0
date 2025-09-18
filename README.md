@@ -22,4 +22,5 @@ We have extended that base with severalg improvements:
     python run.py --train --epochs 2 --context_length 256 
 4. Ask model questions (example below, not the required line)
     ```
-    python run.py --ask "What is most important about nutrition" --topk 2
+
+    python run.py --ask "Does alcohol affect sleep?" --topk 2
