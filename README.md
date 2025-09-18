@@ -1,8 +1,8 @@
 # Small Language Model with RAG and PDF Support
 
-This project is based on the excellent tutorial by [Rajasami on Medium](https://medium.com/@rajasami408/building-a-small-language-model-from-scratch-a-practical-guide-to-domain-specific-ai-59539131437f), which walks through building a small language model from scratch.  
+This project is based on the small language model tutorial by [Rajasami on Medium](https://medium.com/@rajasami408/building-a-small-language-model-from-scratch-a-practical-guide-to-domain-specific-ai-59539131437f), which walks through building a small language model from scratch.  
 
-We have extended that base with several improvements:
+We have extended that base with severalg improvements:
 
 - **Document citation** — answers show source PDF names.
 - **Cleaner, less rambling responses** — a compressor step selects concise, relevant sentences to reduce clutter.
