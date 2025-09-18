@@ -17,7 +17,7 @@ We have extended that base with severalg improvements:
 2. Install requirements:
    ```bash
    pip install -r requirements.txt   
-3. Train model if needed (example below, not the required line):
+3. Train model if needed (The model has already been trained can skip this step if just testing it out):
     ```
     python run.py --train --epochs 2 --context_length 256 
 4. Ask model questions (example below, not the required line):
@@ -26,3 +26,4 @@ We have extended that base with severalg improvements:
     python run.py --ask "Does alcohol affect sleep?" --topk 2
 
 ## I DO NOT CLAIM THESE DOCUMENTS AS MY OWN, THEY ARE FOR TESTING PURPOSES AND BELONG TO THE ORIGINAL AUTHORS
+
